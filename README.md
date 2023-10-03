@@ -5,16 +5,16 @@ In this project, I worked collaboratively with a team of three other designers t
 
 This assignment significantly contributed to my computer science and college-wide learning goals:
 
-### System-Level Understanding of the Computer: 
+### To attain a system-level understanding of the computer: 
 The project allowed me to delve deeper into the technical aspects of game development, providing insights into how software interacts with computer systems and hardware.
 
-### Concepts and Techniques of Software Design: 
+### To understand the concepts and techniques of software design: 
 I had never worked with Godot or any video game engine for that matter so this project gave me a good foundation for how to pick up a software and create something from scratch
 
-### Project Experience in Group Setting: 
+### To acquire significant project experience working both individually and in a group setting: 
 Collaborating within a team, each member had a specific role, and we had to coordinate our efforts to meet project milestones. This experience strengthened my ability to work effectively in a group, a crucial skill in the software development industry.
 
-### Problem Solving Skills: 
+### To develop effective problem solving skills: 
 Overcoming challenges related to game mechanics, educational content integration, and platform compatibility sharpened my problem-solving skills, enabling me to tackle complex issues systematically. 
 
 In conclusion, this Software Engineering project not only expanded my knowledge in software design and development but also provided me with valuable insights into teamwork, project management, and problem-solving—aligning with my college's learning goals.
